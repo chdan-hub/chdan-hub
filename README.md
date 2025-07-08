@@ -66,6 +66,15 @@
   <br/>
   <br/>
 
+  ## :star: Solved.ac
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={chdan})](https://solved.ac/{chdan})
+
+  [![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={chdan})](https://solved.ac/{chdan})
+  <br/>
+  <br/>
+
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer&text=감%20사%20합%20니%20다&fontColor=ecf6fa&fontAlignY=50&animation=twinkling&fontSize=80)
