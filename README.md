@@ -62,7 +62,7 @@
   <br/>
   
   ## :hear_no_evil: Grass
-  <img src="http://mazandi.herokuapp.com/api?handle={chdan-hub}&theme=warm"/>
+  <img src="http://mazandi.herokuapp.com/api?handle={chdan}&theme=dark"/>
   <br/>
   <br/>
 
