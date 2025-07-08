@@ -1,4 +1,6 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=Waving)
+
+## 안녕하세요! 개발재 재현입니다. 👋
 
 <!--
 **chdan-hub/chdan-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
