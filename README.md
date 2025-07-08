@@ -15,7 +15,7 @@
   <br/>
   
   ## :hearts: Tech Stack
-  ### Language
+  ## Language
   <!--Python 앞으로 배울 것-->
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   <!--JavaScript 앞으로 배울 것-->
@@ -39,7 +39,7 @@
   <br/>
   <br/>
   
-  ### :seedling: BLOG
+  ## :seedling: BLOG
   <!--Velog-->
   <a href="https://velog.io/@ksmii358/posts">
   <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/>
@@ -47,7 +47,7 @@
   <br/>
   <br/>
   
-  ### :iphone: Contact information
+  ## :iphone: Contact information
   <!--Instagram-->
   <a href="https://www.instagram.com/m_u_nzzi/">
   <img src="https://img.shields.io/badge/Instagram-FF0069?style=flat-square&logo=Instagram&logoColor=white"/>
@@ -61,7 +61,7 @@
   <br/>
   <br/>
   
-  ### :hear_no_evil: Grass
+  ## :hear_no_evil: Grass
   <img src="http://mazandi.herokuapp.com/api?handle={chdan-hub}&theme=warm"/>
   <br/>
   <br/>
