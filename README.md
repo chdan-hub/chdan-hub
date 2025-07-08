@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=어%20서%20오%20세%20요&fontColor=ecf6fa&fontAlignY=50&animation=twinkling&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=어%20서%20오%20세%20요&fontColor=ecf6fa&fontAlignY=50&animation=twinkling&fontSize=80)
 
 ## 안녕하세요! 개발자 재현입니다. 👋
 <br/>
@@ -68,7 +68,7 @@
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer&text=감%20사%20합%20니%20다&fontColor=ecf6fa&fontAlignY=50&animation=twinkling&fontSize=100)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer&text=감%20사%20합%20니%20다&fontColor=ecf6fa&fontAlignY=50&animation=twinkling&fontSize=80)
 <!--
 **chdan-hub/chdan-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
