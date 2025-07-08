@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=Waving)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Good%20to%20see%20you%20%F0%9F%A4%97)
 
-## 안녕하세요! 개발재 재현입니다. 👋
+## 안녕하세요! 개발자 재현입니다. 👋
 
 <!--
 **chdan-hub/chdan-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
