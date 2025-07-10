@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=W%20e%20l%20c%20o%20m%20e%20🇰🇷&fontColor=ecf6fa&fontAlignY=50&animation=twinkling&fontSize=80)
 
+***
+
 ## 안녕하세요! 개발자 재현입니다. 👋
 <br/>
 <br/>
@@ -76,6 +78,8 @@
   <br/>
 
 </div>
+
+***
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=footer&text=T%20h%20a%20n%20k%20 %20Y%20o%20u%20.&fontColor=ecf6fa&fontAlignY=50&animation=twinkling&fontSize=80)
 <!--
