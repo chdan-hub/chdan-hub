@@ -64,16 +64,16 @@
   <br/>
   
   ## :hear_no_evil: Grass
-  <img src="http://mazandi.herokuapp.com/api?handle={chdan}&theme=dark"/>
+  <img src="http://mazandi.herokuapp.com/api?handle=chdan&theme=dark"/>
   <br/>
   <br/>
 
   ## :star: Solved.ac
   [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={chdan})](https://solved.ac/{chdan})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=chdan)](https://solved.ac/chdan)
 
   [![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={chdan})](https://solved.ac/{chdan})
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=chdan)](https://solved.ac/chdan)
   <br/>
   <br/>
 
